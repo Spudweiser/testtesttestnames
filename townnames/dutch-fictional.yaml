@@ -11,36 +11,26 @@ mainset:
     probability: 1
   - name: Haar
     probability: 1
-  - name: >-
-      Kat
+  - name: Kat
     probability: 1
-  - name: >-
-      Nieuwer
+  - name: Nieuwer
     probability: 1
-  - name: >-
-      Noord
+  - name: Noord
     probability: 1
-  - name: >-
-      Oost
+  - name: Oost
     probability: 1
-  - name: >-
-      Oude
+  - name: Oude
     probability: 1
-  - name: >-
-      Papen
+  - name: Papen
     probability: 1
-  - name: >-
-      Rotter
+  - name: Rotter
     probability: 1
 - names:
-  - name: >-
-      dam
+  - name: dam
     probability: 1
-  - name: >-
-      deel
+  - name: deel
     probability: 1
-  - name: >-
-      drecht
+  - name: drecht
     probability: 1
   - name: land
     probability: 1
